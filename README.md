@@ -1,14 +1,18 @@
 ### Hey, I'm Erik!
 
-I'm a security researcher currently working on my Ph.D. in computer science, with a focus on malware analysis.
-A list of my published work can be found on my [website](http://erikbergenholtz.se).
+I'm a penetration tester and all around nerd with a special interest for
+hacking IBM mainframes. I've also done some research while working towards my
+Ph.D. in computer science (a project that's currently on hold), where I've
+focused on malware analysis and malware obfuscation techniques. A list of my
+published work can be found on my [website](http://escalatedquickly.se).
 
-In the security field, I am of course very interested in malware analysis and reverse engineering. In particular,
-I'm interested in obfuscation techniques used by malware. I'm also very interested in web and systems security,
-cyrptography, as well as physical security.
+Apart from hacking mainframes and picking apart malware, I'm also very
+interested in web and system security, cryptography, and physical security.
 
-Outside of security, I have a deep interest for formal languages, systems programming, and programming in
-general.
+Outside of security, I have a deep interest for formal languages, system
+programming, and programming in general. Since I discovered the wonderful world
+of mainframes, I have of course extended these topics into that domain, and
+have taken the first stumbles into the world of COBOL, REXX and HLASM.
 
 ## Featured projects:
 Project | Description
