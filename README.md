@@ -4,7 +4,7 @@ I'm a penetration tester and all around nerd with a special interest for
 hacking IBM mainframes. I've also done some research while working towards my
 Ph.D. in computer science (a project that's currently on hold), where I've
 focused on malware analysis and malware obfuscation techniques. A list of my
-published work can be found on my [website](http://escalatedquickly.se).
+published work can be found on my [website](http://erikbergenholtz.se).
 
 Apart from hacking mainframes and picking apart malware, I'm also very
 interested in web and system security, cryptography, and physical security.
